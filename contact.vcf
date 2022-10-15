@@ -1,0 +1,12 @@
+BEGIN:VCARD
+VERSION:3.0
+PRODID:-//Apple Inc.//iPhone OS 16.0.2//EN
+N:Test;Johnny;;;
+FN:Johnny Test
+ORG:Blah LLC.;
+EMAIL;type=INTERNET;type=WORK;type=pref:johnny@test.com
+EMAIL;type=INTERNET:johnnytest@yahoo.com
+EMAIL;type=INTERNET:johnnytest@gmail.com
+TEL;type=WORK;type=VOICE;type=pref:(999) 123- 1234
+TEL;type=OTHER;type=FAX:(999) 639- 1234
+END:VCARD
